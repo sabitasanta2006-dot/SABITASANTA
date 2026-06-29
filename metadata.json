@@ -1,0 +1,6 @@
+{
+  "name": "Sky Runner",
+  "description": "A premium, action-packed 2D endless runner game with smooth Canvas rendering, character select, achievements, daily rewards, custom audio effects, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
